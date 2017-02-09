@@ -42,9 +42,9 @@ from math import exp, log, sqrt
 ##############################################################################
 
 # A, paths
-train = '/Users/cowabungadood/Desktop/ctr_data/train.csv'            # path to training file
-test = '/Users/cowabungadood/Desktop/ctr_data/test.csv'            # path to testing file
-submission = '/Users/cowabungadood/Desktop/ctr_data/submission8.csv'  # path of to be outputted submission file
+train = '/PATH/train.csv'            # path to training file
+test = '/PATH/test.csv'            # path to testing file
+submission = '/PATH/submission8.csv'  # path of to be outputted submission file
 
 
 
